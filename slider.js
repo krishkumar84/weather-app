@@ -55,7 +55,7 @@ function searchWeather() {
           break;
 
         case 'Snow':
-          image.src = 'snow.png';
+          image.src = 'snowy.png';
           break;
 
         case 'Clouds':
@@ -76,6 +76,10 @@ function searchWeather() {
 
           case 'Broken Clouds':
           image.src = 'cloudy.png';
+          break;
+          
+          case 'Thunderstorm':
+          image.src = 'snow.png';
           break;
 
         default:
