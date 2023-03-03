@@ -63,7 +63,19 @@ function searchWeather() {
           break;
 
         case 'Haze':
+          image.src = 'haze.png';
+          break;
+
+          case 'Mist':
           image.src = 'mist.png';
+          break;
+
+          case 'Smoke':
+          image.src = 'smoke.png';
+          break;
+
+          case 'Broken Clouds':
+          image.src = 'cloudy.png';
           break;
 
         default:
