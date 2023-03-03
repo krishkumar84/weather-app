@@ -78,7 +78,7 @@ function searchWeather() {
           image.src = 'cloudy.png';
           break;
           
-          case 'thunderstorm':
+          case 'Thunderstorm':
           image.src = 'snow.png';
           break;
 
