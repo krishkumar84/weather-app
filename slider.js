@@ -70,7 +70,7 @@ function searchWeather() {
           image.src = 'mist.png';
           break;
 
-          case 'smoke':
+          case 'Smoke':
           image.src = 'smoke.png';
           break;
 
