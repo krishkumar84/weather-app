@@ -68,9 +68,6 @@
     .faqsection{
         padding: 10px;
     }
-    .faqsection {
-        padding: 10px;
-    }
 }
 @media screen and (max-width: 1023px) {
     .accordian{
@@ -96,6 +93,6 @@
         font-size: 1.45rem;
     }
     .faqsection{
-        padding: 10px;
+        padding: 15px;
     }
 }
